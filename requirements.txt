@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-openai
-flask
-python-dotenv
